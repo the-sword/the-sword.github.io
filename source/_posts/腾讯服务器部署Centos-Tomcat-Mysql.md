@@ -6,7 +6,7 @@ tags:
 categories: 开发总结
 subtitle:
 catalog: true
-header-img:
+header-img: /img/default.jpg
 abbrlink: b9a5dba
 date: 2017-02-23 15:02:20
 ---

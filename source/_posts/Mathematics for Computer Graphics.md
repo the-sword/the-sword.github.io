@@ -5,7 +5,7 @@ tags:
 abbrlink: fbad8ba1
 subtitle:
 catalog: true
-header-img:
+header-img: http://s3v.computerhistory.org/102740009-01-01.jpg?
 date: 2017-08-23 16:17:23
 categories:
   - Graphics

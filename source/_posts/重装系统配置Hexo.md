@@ -5,7 +5,7 @@ tags:
 categories: 软件资源
 subtitle:
 catalog: true
-header-img:
+header-img: http://ropy.org/content/images/2018/02/cover.png
 abbrlink: 78db2b53
 date: 2017-06-06 15:18:23
 ---

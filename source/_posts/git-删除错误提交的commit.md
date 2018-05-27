@@ -6,7 +6,7 @@ categories: 开发总结
 abbrlink: c0c90fc2
 subtitle:
 catalog: true
-header-img:
+header-img: http://www.linuxlearners.com/wp-content/uploads/2018/04/linuxlearners-git.jpg
 date: 2017-11-11 17:22:38
 ---
 之所以写这篇blog，是因为在提交hexo的时候不知道哪个地方配置出了问题，在github上commit了几个错误的版本，后来想恢复前面某个正确的配置.

@@ -6,7 +6,7 @@ categories: 开发总结
 abbrlink: da9313af
 subtitle:
 catalog: true
-header-img:
+header-img: /img/default.jpg
 date: 2016-11-22 22:19:44
 ---
 Maven构建SpringMVC项目实现注解及数据库事务管理

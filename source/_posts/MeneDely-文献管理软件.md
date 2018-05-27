@@ -6,7 +6,7 @@ categories: 软件资源
 abbrlink: 537baf1
 subtitle:
 catalog: true
-header-img:
+header-img: https://i.ytimg.com/vi/Gv6_HuCYExM/maxresdefault.jpg
 date: 2017-04-01 23:24:34
 ---
 以前看文献的时候一直用的是Endnote，但是感觉软件很笨重，并且还是收费的。后来发现了Mendeley这个，简直破费。

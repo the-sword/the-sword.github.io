@@ -7,7 +7,7 @@ categories: 开发总结
 abbrlink: 39976cd1
 subtitle:
 catalog: true
-header-img:
+header-img: /img/default.jpg
 date: 2016-11-22 22:31:59
 ---
 最近一直在学习在Android Studio里添加百度地图功能，但是初期遇到很多问题，经过多次实践以及众多大神的解答，终于解决了在android studio上使用百度地图的许多问题，现在记录如下。

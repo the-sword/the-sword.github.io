@@ -6,7 +6,7 @@ categories: 学习笔记
 abbrlink: b30ceb9f
 subtitle:
 catalog: true
-header-img:
+header-img: https://www.linuxinsider.com/article_images/story_graphics_xlarge/xl-2017-linux-1.jpg
 date: 2016-11-22 22:29:22
 ---
 Linux学习笔记，不定期更新

@@ -7,7 +7,7 @@ categories: 开发总结
 abbrlink: 2ecaa025
 subtitle:
 catalog: true
-header-img:
+header-img: /img/default.jpg
 date: 2016-11-11 22:29:22
 ---
 
