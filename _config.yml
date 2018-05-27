@@ -60,7 +60,7 @@ disqus_username: the-sword-github-io
 # ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-109219512-1'          # Format: UA-xxxxxx-xx
-ga_domain: yoursite
+ga_domain: https://the-sword.github.io
 baidu_analytics: 5354c19cfb8a022c0adb15862e841958
 google_site_verification: qAmFzUoM_9j1HLIOgrC1HlDTnk9gVe_g2ip2ECdCo0g
 baidu_site_verification: 9unHkQbeN7
@@ -74,7 +74,7 @@ widgets:
 - featured-tags
 - short-about
 - recent-posts
-- friends-blog
+#- friends-blog
 - archive
 - category
 
