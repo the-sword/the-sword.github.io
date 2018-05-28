@@ -102,7 +102,7 @@ cdn:
 # ---------------
 avatar: http://wx1.sinaimg.cn/large/6e529308ly1frr89rajqkj2074074gmb.jpg
 
-top_img: /background.jpg # false or url of img 
+top_img: true # false or url of img 
 
 post_meta:
   date_type: created # created or updated 
@@ -235,18 +235,3 @@ follow:
   enable: true
   url: 'https://github.com/the-sword'
   text: 'Follow Me'
-
-live2d:
-  enable: true
-  scriptFrom: local
-  pluginRootPath: live2dw/
-  pluginJsPath: lib/
-  pluginModelPath: assets/
-  model:
-    use: live2d-widget-model-hijiki
-  display:
-    position: right
-    width: 50
-    height: 100
-  mobile:
-    show: true
