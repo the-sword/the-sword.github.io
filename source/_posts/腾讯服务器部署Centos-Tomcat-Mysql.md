@@ -8,6 +8,7 @@ subtitle:
 catalog: true
 header-img: /img/default.jpg
 abbrlink: b9a5dba
+top_img: https://source.unsplash.com/random/1366*768
 date: 2017-02-23 15:02:20
 ---
 最近在做项目的时候，需要把war包上传到腾讯云服务器，查了一些资料，了解了相关的配置参数以及命令，自己做了一个整合，记录一下，方便以后使用查找。

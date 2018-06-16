@@ -7,6 +7,7 @@ subtitle:
 catalog: true
 header-img: http://ropy.org/content/images/2018/02/cover.png
 abbrlink: 78db2b53
+top_img: https://source.unsplash.com/random/1366*768
 date: 2017-06-06 15:18:23
 ---
 记录重装系统后恢复Hexo方法.
