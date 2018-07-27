@@ -24,8 +24,7 @@ pwa:
 
 # Highlight theme
 # ---------------
-highlight_theme: darker
-
+highlight_theme: default
 # Nav settings
 # ---------------
 social:
@@ -96,17 +95,17 @@ cdn:
     anime: /js/third-party/anime.min.js
     jquery: /js/third-party/jquery.min.js
     fancybox: /js/third-party/jquery.fancybox.min.js
-    velocity: /js/third-party/velocity.min.js 
-    velocity-ui: /js/third-party/velocity.ui.min.js 
+    velocity: /js/third-party/velocity.min.js
+    velocity-ui: /js/third-party/velocity.ui.min.js
 
 # Post info settings
 # ---------------
 avatar: http://wx1.sinaimg.cn/large/6e529308ly1frr89rajqkj2074074gmb.jpg
 
-top_img: true # false or url of img 
+top_img: true # false or url of img
 
 post_meta:
-  date_type: created # created or updated 
+  date_type: created # created or updated
   categories: true
   tags: true
 
@@ -148,13 +147,13 @@ slide:
 
 # adv:
   # enable: false
-  # info: 
+  # info:
 
 # Share System
 # ---------------
 addThis:
   enable: false
-  #pubid: 
+  #pubid:
 
 sharejs:
   enable: true
@@ -163,7 +162,7 @@ sharejs:
 # Comments System
 # ---------------
 disqus:
-  enable: true 
+  enable: true
   shortname: the-sword-github-io
   count: true
 
@@ -173,15 +172,15 @@ disqus:
 
 # gitment
   # enable: false
-  # owner: 
-  # repo: 
-  # client_id: 
-  # client_secret: 
+  # owner:
+  # repo:
+  # client_id:
+  # client_secret:
 
 # gitalk:
 #   enable: false
-#   client_id: 
-#   client_secret: 
+#   client_id:
+#   client_secret:
 #   repo:
 #   owner:
 #   admin:
@@ -205,7 +204,7 @@ since: 2016
 
 ICP:
   enable: false
-  #text: 
+  #text:
 
 # busuanzi count for PV / UV in site
 busuanzi:
@@ -228,7 +227,7 @@ busuanzi:
 # Sidebar Settings
 # ---------------
 links_title: Links
-links: 
+links:
   Molunerfinn: https://molunerfinn.com
 
 # Follow Me
@@ -236,3 +235,13 @@ follow:
   enable: true
   url: 'https://github.com/the-sword'
   text: 'Follow Me'
+
+theme_color:
+  enable: true # or false -> to use the default theme
+  main: "#394547"
+  paginator: "#394547"
+  button_hover: "#49B1F5"
+  text_selection: "#394547"
+  link_color: "#394547"
+  hr_color: "#394547"
+  meta_color: "#394547"
