@@ -14,6 +14,10 @@ date: 2017-01-01 23:09:37
 工作学习中经常需要使用Google搜索，Google学术等，但是由于国内暂时无法访问，会面临很多麻烦。故我根据自己的使用经验，提供如下方法，仅限于学习使用。
 
 <!-- more -->
+**更新20190128**
+
+更新免费ss服务器链接
+* * *
 **更新20180526**
 
 更新XX-Net，删除部分无法使用的链接
@@ -47,13 +51,12 @@ date: 2017-01-01 23:09:37
 | 收费	| 免费	| 付费 |
 
 ## 修改Hosts
-
+（该方法可能暂时失效）
 **更新20170528**
 
 [github链接](https://github.com/googlehosts/hosts)
 
 更改方法：
-	
 1. 管理员身份运行记事本，Windows 系统下打开C:\Windows\System32\drivers\etc\hosts文件
 2. 打开上述链接，复制网页内容，将其添加到hosts文件中
 3. Windows下 点击开始 -> 运行 -> 输入cmd -> 在CMD窗口输入
@@ -65,12 +68,12 @@ date: 2017-01-01 23:09:37
 - *iPhone（iOS）系统hosts位于 /etc/hosts*
 - *Android（安卓）系统hosts位于 /etc/hosts*
 
-## 开个小飞机-shadowsocksR
-**Android、Windows**：ShadowsocksR
+## 开个小飞机-shadowsocks
+**Android、Windows**：Shadowsocks
 
 **iOS:Surge(收费)、Shadowrocket(收费)、wingy(免费)**
 
-最新下载地址：https://github.com/nanqinlang-shadowsocksrr/shadowsocksrr-backup
+最新下载地址：https://github.com/shadowsocks/shadowsocks-windows/releases
 
 
 跟上述两个方法相比，该方法可使用的范围更广，只要有ss账号，就可以在Windows、Android、ios等多个平台使用，更加方便。
@@ -83,19 +86,17 @@ date: 2017-01-01 23:09:37
 2. 获取ss账号
 
   推荐几个ss获取平台(部分需挂代理)：
-    > https://doub.io/sszhfx/
+    > https://free-ss.site/
 
-3. 以Windows为例，解压文件，打开其中的ShadowsocksR-dotnet4.0.exe
+3. 以Windows为例，解压文件，打开其中的shadowsocks.exe
 
 4. 出现如下界面，点击添加，填入服务器ip、服务器端口、密码、加密，随后点击确定，具体也可参照上面我的ss填写方式。或者也可以右键ss程序，使用“二维码扫描”扫描二维码，自动填入相关信息。
 
-  ![](http://ww4.sinaimg.cn/large/6e529308jw1fbbicab50aj20i40cvjtc.jpg)
+  ![](https://ww1.sinaimg.cn/large/007i4MEmgy1fzmj8d6rwkj30ct0d73z8.jpg)
 
-5. 右键ss程序，先选择“服务器”，再选择“系统代理模式”中的“全局模式”，在“PAC”菜单中选择“更新PAC为绕过大陆常见域名列表”。此时配置完成，以后可以在系统代理模式中自行切换“PAC模式”或者“全局模式”即可。
+5. 右键ss程序，先选择“服务器”，再选择“系统代理模式”中的“全局模式”，在“PAC”菜单中选择“使用在线PAC”。此时配置完成，以后可以在系统代理模式中自行切换“PAC模式”或者“全局模式”即可。
 
 6. 现在可以随意访问国外网站了，速度跟你填写的ss服务器有关。
-
-
 
 ## 谷歌插件-谷歌上网助手
 
@@ -110,10 +111,12 @@ date: 2017-01-01 23:09:37
 
 ----------
 
-
 **注：**
 
 **互联网上存在着大量终究不现实的、不客观的，甚至自相矛盾的抹黑当局政府言论，它们背后一般有西方政府或非政府组织资金支持。这些媒体包括但不限于一些港媒、境外网站。**
 
 **希望您能在遇到此类言论和见解时，不要不加思考地、情绪一度被煽动而不能克制地、盲目地相信这些片面或者歪曲事实的东西，而是要事实求是地思考，要摆脱情绪绑架的怪诞思维去理解。**
 
+------
+
+如果存在链接无法访问，可以在下面评论或者Email：1049840395@qq.com

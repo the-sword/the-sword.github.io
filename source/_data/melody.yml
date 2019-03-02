@@ -1,37 +1,57 @@
-# html lang
+# Theme color for customize
+# Notice: color value must in double quotes like "#000" or may cause error!
 # ---------------
+# theme_color:
+#   enable: true
+#   main: "#49B1F5"
+#   paginator: "#00C4B6"
+#   button_hover: "#FF7242"
+#   text_selection: "#00C4B6"
+#   link_color: "#858585"
+#   hr_color: "#A4D8FA"
 language: en
-
 # Main menu navigation
 # ---------------
 menu:
   Home: /
   Archives: /archives
-  Categories: /categories
   Tags: /tags
+  Categories: /categories
   #XXX: /xxx
 
 # Favicon
+# use my-favicon.ico to avoid duplicate favicon of melody theme
 # ---------------
 favicon: /favicon.ico
 
 # PWA
+# See https://github.com/JLHwung/hexo-offline
 # ---------------
 pwa:
   enable: true
   manifest: /manifest.json
+  # If you don't want to trouble, just ignore the following things
+  # See https://realfavicongenerator.net/
+  # theme_color: "#1B9EF3"
+  # apple_touch_icon: /apple-touch-icon.png
+  # favicon_32_32: /favicon-32x32.png
+  # favicon_16_16: /favicon-16x16.png
+  # mask_icon: /safari-pinned-tab.svg
 
 
 # Highlight theme
 # ---------------
 highlight_theme: default
+
+code_word_wrap: true
+
 # Nav settings
 # ---------------
 social:
   github: https://github.com/the-sword
   weibo: http://weibo.com/u/1850905352
   twitter: https://twitter.com/1049840395
-  cloud: https://zxhoneindex.now.sh/
+  cloud: https://pan.lea-code.win
 
 # Algolia search
 # ---------------
@@ -44,7 +64,9 @@ algolia_search:
     hits_empty: "We didn't find any results for the search: ${query}"
     hits_stats: "${hits} results found in ${time} ms"
 
+
 # Local search
+# Please see doc for more details: https://molunerfinn.com/hexo-theme-melody-doc/#/third-party-support?id=local-search
 # ---------------
 local_search:
   enable: true
@@ -53,10 +75,11 @@ local_search:
     hits_empty: "We didn't find any results for the search: ${query}"
 
 # MathJax
+# Please see doc for more details: https://molunerfinn.com/hexo-theme-melody-doc/#/third-party-support?id=mathjax
 # ---------------
 mathjax:
   enable: true
-  cdn: https://cdn.bootcss.com/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  cdn: https://cdn.jsdelivr.net/npm/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 
 # Toggle fireworks (IE >= 10)
@@ -90,7 +113,7 @@ scripts:
 # ---------------
 cdn:
   css:
-    fontawesome: https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css
+    fontawesome: https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css
   js:
     anime: /js/third-party/anime.min.js
     jquery: /js/third-party/jquery.min.js
@@ -109,17 +132,20 @@ post_meta:
   categories: true
   tags: true
 
+# Please see doc for more details: https://molunerfinn.com/hexo-theme-melody-doc/#/additional-package-support?id=word-counting
 wordcount:
   enable: true
 
 toc:
   enable: true
+  number: true
 
 post_copyright:
   enable: true
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+# Please see doc for more details: https://molunerfinn.com/hexo-theme-melody-doc/#/theme-config?id=auto-excerpt
 auto_excerpt:
   enable: true
   length: 150
@@ -184,6 +210,9 @@ disqus:
 #   repo:
 #   owner:
 #   admin:
+####   Using this js for redirect to gitalk container after login
+####   See https://github.com/gitalk/gitalk/issues/125
+#   js: https://cdn.jsdelivr.net/gh/upupming/gitalk@36368e5dffd049e956cdbbd751ff96c28d8255cf/dist/gitalk.min.js
 
 # valine comment system. https://valine.js.org
 # valine:
@@ -202,9 +231,16 @@ disqus:
 # ---------------
 since: 2016
 
+# footer_custom_text:
+
 ICP:
   enable: false
   #text:
+
+leancloud_visitors:
+  enable: true
+  app_id: 6Sw4kJMjVUBFnVNVkQKc6kW2-gzGzoHsz
+  app_key: Dir16kBzRJikbd3PJaCz0Ui8
 
 # busuanzi count for PV / UV in site
 busuanzi:
