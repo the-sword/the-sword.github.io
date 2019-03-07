@@ -7,7 +7,6 @@ categories: 软件资源
 abbrlink: 5f24baca
 subtitle:
 catalog: true
-top_img: https://source.unsplash.com/random/1366*768
 header-img: https://imgzh.vietnamplus.vn/t660/Uploaded/wbxx/2018_04_27/IPv6image.jpeg
 date: 2017-10-07 19:35:57
 ---

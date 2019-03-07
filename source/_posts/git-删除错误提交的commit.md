@@ -5,7 +5,6 @@ tags:
 categories: 开发总结
 abbrlink: c0c90fc2
 subtitle:
-top_img: https://source.unsplash.com/random/1366*768
 catalog: true
 header-img: http://www.linuxlearners.com/wp-content/uploads/2018/04/linuxlearners-git.jpg
 date: 2017-11-11 17:22:38
@@ -22,7 +21,7 @@ date: 2017-11-11 17:22:38
 	git remote add origin https://github.com/the-sword/the-sword.github.io.git    //连接hexo分支仓库
 
 ## 恢复到某个commit
-	
+
 	git fetch --all
 	git reset --hard <commit_id>
 	git push origin HEAD --force

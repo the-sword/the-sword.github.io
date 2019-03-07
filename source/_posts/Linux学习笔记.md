@@ -6,7 +6,6 @@ categories: 学习笔记
 abbrlink: b30ceb9f
 subtitle:
 catalog: true
-top_img: https://source.unsplash.com/random/1366*768
 header-img: https://www.linuxinsider.com/article_images/story_graphics_xlarge/xl-2017-linux-1.jpg
 date: 2016-11-22 22:29:22
 ---
@@ -20,13 +19,13 @@ Linux学习笔记，不定期更新
 
 ### 学习方法
 
-​Linux严格区分大小写
+Linux严格区分大小写
 
-​Linux中所有内容以文件形式保存，包括硬件，即一切皆文件
+Linux中所有内容以文件形式保存，包括硬件，即一切皆文件
 
-​Linux不靠扩展名区分文件类型，靠权限来分，但默认可以有压缩包，二进制软件包，网页文件，脚本文件，配置文件的区分。
+Linux不靠扩展名区分文件类型，靠权限来分，但默认可以有压缩包，二进制软件包，网页文件，脚本文件，配置文件的区分。
 
-​windows下的软件不能再linux下直接安装和运行
+windows下的软件不能再linux下直接安装和运行
 
 ### 字符界面的优势
 
@@ -65,7 +64,7 @@ swap分区：交换分区，内存2倍，超过4gb内存的可以跟内存一样
 
 ### Linux系统安装
 
-​可以安装basic 服务器
+可以安装basic 服务器
 
 ### XShell安装和使用
 
@@ -100,11 +99,11 @@ ls -l显示详细信息，
 
 (>) -文件类型（其中-文件，d目录，l软链接文件）（r读 w写 x执行）
 
-​ rw- 代表u所有者
+ rw- 代表u所有者
 
-​ r– 代表g所属组
+ r– 代表g所属组
 
-​ r– 代表o其他人
+ r– 代表o其他人
 
 其中5：引用计数
 
@@ -307,17 +306,17 @@ s就是super user的意思，也就是说这里存放的是root管理员使用�
 
 locate 文件名 在后台数据库按文件名搜索，搜索速度更快
 
-​/var/lib/mlocate #locate命令所搜索的后台数据库
+/var/lib/mlocate #locate命令所搜索的后台数据库
 
-​updatedb 更新数据库，否则新建文件有时候locate会搜不到
+updatedb 更新数据库，否则新建文件有时候locate会搜不到
 
-​locate命令会遵循/etc/updatedb.conf配置文件的配置进行搜索
+locate命令会遵循/etc/updatedb.conf配置文件的配置进行搜索
 
 ### 命令搜索命令whereis与which
 
 whereis ls，会弹出命令所在目录，帮助文档等
 
-​which 文件名 命令所在位置及别名
+which 文件名 命令所在位置及别名
 
 PATH环境变量 ：定义的是系统搜索命令的路径
 
@@ -391,7 +390,7 @@ help cd：获取内部命令的帮助
 
 info 命令
 
-​ -回车：进入资本主页面（带有*号标记）
+ -回车：进入资本主页面（带有*号标记）
 
 ```
 -u：进入上层页面

@@ -133,6 +133,7 @@ cdn:
 avatar: https://ae01.alicdn.com/kf/HTB16qwvKCzqK1RjSZFHq6z3CpXab.jpg
 
 top_img: true # false or url of img
+page_top_img: http://bing.getlove.cn/bingImage
 
 post_meta:
   date_type: created # created or updated

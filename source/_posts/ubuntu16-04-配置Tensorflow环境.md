@@ -1,6 +1,5 @@
 ---
 title: ubuntu16.04 配置Tensorflow环境
-top_img: 'https://source.unsplash.com/random/1366*768'
 tags:
   - linux
   - Graphics
