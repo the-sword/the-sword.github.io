@@ -123,7 +123,8 @@ cdn:
 
 # Post info settings
 # ---------------
-avatar: http://wx1.sinaimg.cn/large/6e529308ly1frr89rajqkj2074074gmb.jpg
+# avatar: http://wx1.sinaimg.cn/large/6e529308ly1frr89rajqkj2074074gmb.jpg
+avatar: https://ae01.alicdn.com/kf/HTB16qwvKCzqK1RjSZFHq6z3CpXab.jpg
 
 top_img: true # false or url of img
 
