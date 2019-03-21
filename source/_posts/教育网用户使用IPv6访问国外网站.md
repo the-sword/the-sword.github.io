@@ -15,12 +15,13 @@ date: 2017-10-07 19:35:57
 <!-- more -->
 ## 1.2. 计算IPv6地址
 [获取ipv6地址](http://ip-lookup.net/conversion.php)
-![](https://pan.lea-code.win/ImageRepo/getipv6address.png)
+![获取ipv6地址](https://ww1.sinaimg.cn/large/007i4MEmgy1g1a8syg7oaj30hr0amjrm.jpg)
+
 ## 1.3. 填写相关信息
 
 除去IPv6地址不同外，其余配置相同。
 
-![](https://pan.lea-code.win/ImageRepo/ipv6setting.png)
+![ipv6配置](https://ww1.sinaimg.cn/large/007i4MEmgy1g1a8tq2fnnj30wa0mxtb4.jpg)
 ***
 此时即可以畅游网络
 
