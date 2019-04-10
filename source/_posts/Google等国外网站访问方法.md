@@ -18,6 +18,8 @@ date: 2017-01-01 23:09:37
 
 删除Lantern推荐，谷歌上网助手已转为付费，添加谷歌访问助手
 
+--------------------------
+
 **更新20190128**
 
 更新免费ss服务器链接
@@ -87,6 +89,8 @@ date: 2017-01-01 23:09:37
 > https://free-ss.site/
 >
 > [http://dlercloud.org](http://dlercloud.org/)
+>
+> https://do.freess.today/
 
 3. 以Windows为例，解压文件，打开其中的shadowsocks.exe
 
