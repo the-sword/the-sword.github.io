@@ -20,22 +20,6 @@ date: 2017-01-01 23:09:37
 
 --------------------------
 
-**更新20190128**
-
-更新免费ss服务器链接
-* * *
-**更新20180526**
-
-更新XX-Net，删除部分无法使用的链接
-* * *
-**更新20170927**
-
-更新SSR下载链接及免费站点
-* * *
-**更新20170921**
-
-更新shadowsocksR软件下载地址以及服务器线路配置
-
 ## XX-Net
 
 [XX-Net](https://github.com/XX-net/XX-Net)
@@ -84,19 +68,18 @@ date: 2017-01-01 23:09:37
 
 2. 获取ss账号
 
-  推荐几个ss获取或者购买平台(部分需挂代理)：
+    推荐几个ss获取或者购买平台(部分需挂代理)
 
-> https://free-ss.site/
->
-> [http://dlercloud.org](http://dlercloud.org/)
->
-> https://do.freess.today/
+   > https://free-ss.site/
+   >
+   > [http://dlercloud.org](http://dlercloud.org/)
+   >
+   > https://do.freess.today/
 
 3. 以Windows为例，解压文件，打开其中的shadowsocks.exe
-
 4. 出现如下界面，点击添加，填入服务器ip、服务器端口、密码、加密，随后点击确定，具体也可参照上面我的ss填写方式。或者也可以右键ss程序，使用“二维码扫描”扫描二维码，自动填入相关信息。
 
-  ![](https://ww1.sinaimg.cn/large/007i4MEmgy1fzmj8d6rwkj30ct0d73z8.jpg)
+​                                          ![](https://ww1.sinaimg.cn/large/007i4MEmgy1fzmj8d6rwkj30ct0d73z8.jpg)
 
 5. 右键ss程序，先选择“服务器”，再选择“系统代理模式”中的“全局模式”，在“PAC”菜单中选择“使用在线PAC”。此时配置完成，以后可以在系统代理模式中自行切换“PAC模式”或者“全局模式”即可。
 
