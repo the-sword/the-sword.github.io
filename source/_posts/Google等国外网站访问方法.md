@@ -71,6 +71,8 @@ date: 2017-01-01 23:09:37
     推荐几个ss获取或者购买平台(部分需挂代理)
 
    > https://free-ss.site/
+   > 
+   > [STC机场推荐，我自己就用的这家机场](idc.stc-hk.net/auth/register?code=hGcV)
    >
    > [http://dlercloud.org](http://dlercloud.org/)
    >
