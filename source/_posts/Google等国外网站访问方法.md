@@ -72,7 +72,7 @@ date: 2017-01-01 23:09:37
 
    > https://free-ss.site/
    > 
-   > [STC机场推荐，我自己就用的这家机场](idc.stc-hk.net/auth/register?code=hGcV)
+   > [自用机场推荐STC](https://idc.stc-hk.net/auth/register?code=hGcV)
    >
    > [http://dlercloud.org](http://dlercloud.org/)
    >
