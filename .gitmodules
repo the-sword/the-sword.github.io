@@ -1,0 +1,3 @@
+[submodule "melody"]
+	path = \\themes\\melody\
+	url = git@github.com:Molunerfinn/hexo-theme-melody.git
