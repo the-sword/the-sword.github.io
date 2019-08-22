@@ -15,13 +15,13 @@ date: 2017-10-07 19:35:57
 <!-- more -->
 ## 1.2. 计算IPv6地址
 [获取ipv6地址](http://ip-lookup.net/conversion.php)
-![获取ipv6地址](https://ww1.sinaimg.cn/large/007i4MEmgy1g1a8syg7oaj30hr0amjrm.jpg)
+![获取ipv6地址](https://ae01.alicdn.com/kf/HTB1QF.GM7voK1RjSZFN763xMVXat.png)
 
 ## 1.3. 填写相关信息
 
 除去IPv6地址不同外，其余配置相同。
 
-![ipv6配置](https://ww1.sinaimg.cn/large/007i4MEmgy1g1a8tq2fnnj30wa0mxtb4.jpg)
+![ipv6配置](https://ae01.alicdn.com/kf/HTB1VssvM9rqK1RjSZK9760yypXak.png)
 ***
 此时即可以畅游网络
 
