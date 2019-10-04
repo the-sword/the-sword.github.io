@@ -110,13 +110,6 @@ live2d:
   mobile:
     show: true
 
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: git@github.com:the-sword/the-sword.github.io
-  branch: master
-
 # hexo-theme-matery配置
 ##代码高亮
 prism_plugin:
@@ -144,3 +137,11 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repo: git@github.com:the-sword/the-sword.github.io
+  branch: master
+
