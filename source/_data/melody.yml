@@ -52,7 +52,6 @@ code_word_wrap: true
 social:
   github fa: https://github.com/the-sword
   weibo fa: http://weibo.com/u/1850905352
-  twitter fa: https://twitter.com/1049840395
   cloud fa: https://xiaohui_zhou.coding.me/
 
 # Algolia search
@@ -84,6 +83,7 @@ katex:
   enable: false
   cdn:
     css: https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css
+  hide_scrollbar: true
 
 # Toggle fireworks (IE >= 10)
 # ---------------
@@ -133,6 +133,8 @@ cdn:
 avatar: https://ae01.alicdn.com/kf/HTB16qwvKCzqK1RjSZFHq6z3CpXab.jpg
 
 top_img: true # false or url of img
+top_img_height: 60 # best range: 60 - 100
+
 page_top_img:  https://api.ixiaowai.cn/gqapi/gqapi.php
 
 post_meta:
@@ -196,7 +198,7 @@ sharejs:
 # Comments System
 # ---------------
 disqus:
-  enable: true
+  enable: false
   shortname: the-sword-github-io
   count: true
 
@@ -211,13 +213,13 @@ disqus:
 # client_id:
 # client_secret:
 
-# gitalk:
-#   enable: false
-#   client_id:
-#   client_secret:
-#   repo:
-#   owner:
-#   admin:
+gitalk:
+  enable: true
+  client_id: 3e8c1efea0f5b1d9cbc6
+  client_secret: dd7d0373189cf1d1d9e6b6bf8fc66e42ef8913ae
+  repo: gittalk-comment
+  owner: the-sword
+  admin: the-sword
 
 # valine comment system. https://valine.js.org
 # valine:
@@ -236,7 +238,7 @@ disqus:
 # ---------------
 since: 2016
 
-# footer_custom_text:
+footer_custom_text: hitokoto
 
 ICP:
   enable: false
@@ -264,6 +266,15 @@ busuanzi:
   page_pv_header: <i class="fa fa-file-o"></i>
   page_pv_footer:
 
+# canvas_ribbon
+# See: https://github.com/hustcc/ribbon.js
+canvas_ribbon:
+  enable: true
+  size: 150
+  alpha: 0.6
+  zIndex: -1
+  click_to_change: true
+
 # Sidebar Settings
 # ---------------
 links_title: Links
@@ -276,6 +287,9 @@ follow:
   url: 'https://github.com/the-sword'
   text: 'Follow Me'
 
+# controls the sidebar showing or hidden in different pages
+sidebar_display: post # all/index/post/index-none/post-none/hidden
+
 # Ads
 # ---------------
 # Google Adsense
@@ -284,6 +298,29 @@ google_adsense:
   js: //pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
   client: ca-pub-...........
   enable_page_level_ads: true
+
+# Google Webmaster tools verification setting
+# See: https://www.google.com/webmasters/
+google_site_verification:
+
+# Bing Webmaster tools verification setting
+# See: https://www.bing.com/webmaster/
+bing_site_verification:
+
+# Yandex Webmaster tools verification setting
+# See: https://webmaster.yandex.ru/
+#yandex_site_verification:
+
+# Baidu Webmaster tools verification setting
+# See: https://ziyuan.baidu.com/site/
+baidu_site_verification:
+
+# 360 Webmaster tools verification setting
+# see http://zhanzhang.so.com/
+qihu_site_verification:
+
+# avoid baidu transformation
+disable_baidu_transformation: true
 
 theme_color:
   enable: true # or false -> to use the default theme
