@@ -249,6 +249,12 @@ leancloud_visitors:
   app_id: 6Sw4kJMjVUBFnVNVkQKc6kW2-gzGzoHsz
   app_key: Dir16kBzRJikbd3PJaCz0Ui8
 
+# Tidio online chat
+# see: https://www.tidiochat.com
+tidio:
+  enable: true
+  key: fut0uxnwfp6sbxufi6qqozmfzutuf3nc
+
 # busuanzi count for PV / UV in site
 busuanzi:
   # count values only if the other configs are false
