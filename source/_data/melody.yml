@@ -52,7 +52,9 @@ code_word_wrap: true
 social:
   github fa: https://github.com/the-sword
   weibo fa: http://weibo.com/u/1850905352
-  cloud fa: https://xiaohui_zhou.coding.me/
+  download fa: https://xiaohui_zhou.coding.me/
+  code fa: https://snipcode.herokuapp.com/
+
 
 # Algolia search
 # ---------------
