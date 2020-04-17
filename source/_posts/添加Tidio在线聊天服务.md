@@ -1,7 +1,7 @@
 ---
 title: 添加Tidio在线聊天服务
 tags:
-  - hexo
+  - Hexo
 categories: 软件资源
 abbrlink: f8edb900
 date: 2020-03-22 10:41:14

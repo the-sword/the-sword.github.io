@@ -1,7 +1,7 @@
 ---
 title: ubuntu16.04 配置Tensorflow环境
 tags:
-  - linux
+  - Linux
   - Graphics
 categories: 开发总结
 abbrlink: ee1401f5
