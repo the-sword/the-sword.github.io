@@ -7,7 +7,15 @@ abbrlink: a086311e
 date: 2020-04-17 15:51:43
 ---
 
-笔记链接：[GAMES101: 现代计算机图形学入门](https://mubu.com/doc/4JI70_e66BV)
+笔记链接：
+
+[GAMES101: 现代计算机图形学入门-幕布链接](https://mubu.com/doc/4JI70_e66BV)
+
+<br>
+
+{% pdf https://dev76.baidupan.com/042202bb/2020/04/22/bcbc711774f7ed61e8d63029718b9007.pdf?st=rLagr2-jM8VdXnvFAbNubw&e=1587495527&b=Ardd0wGxVbRXuVWgCrIHrQP3C7BU_bwCRUucNnFbrB_bBRmAC_bVLFX71muA7AH_bg_btUeEN1ASgVLtVkQmsV31ftALHXfYB5VXrV6ZV5ArKB6kDeAsnVDEAYA_c_c&fi=21440157&pid=223-91-143-15&up=1. %}
+
+<br>
 
 # GAMES101: 现代计算机图形学入门
 
